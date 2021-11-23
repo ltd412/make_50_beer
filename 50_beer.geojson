@@ -1,0 +1,421 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8289385,
+                    20.9977935
+                ]
+            },
+            "properties": {
+                "name": "Nhà Hàng Beer 39"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8294116,
+                    21.0191071
+                ]
+            },
+            "properties": {
+                "name": "TopU Beer Club & Lounge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8235143,
+                    21.0277769
+                ]
+            },
+            "properties": {
+                "name": "AC BEER CLUB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8187622,
+                    21.0226324
+                ]
+            },
+            "properties": {
+                "name": "New Sphinx Beer Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8347924,
+                    21.025653
+                ]
+            },
+            "properties": {
+                "name": "Quận 8 Beer Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8150039,
+                    21.0211924
+                ]
+            },
+            "properties": {
+                "name": "Heninger Beer Phuong Ngoc Thanh Cong Lake Side"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8108899,
+                    21.0263919
+                ]
+            },
+            "properties": {
+                "name": "V PUB Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8115111,
+                    21.0139638
+                ]
+            },
+            "properties": {
+                "name": "Legend Beer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8013077,
+                    21.0126079
+                ]
+            },
+            "properties": {
+                "name": "Bazooka Restaurant Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.809441,
+                    21.01568
+                ]
+            },
+            "properties": {
+                "name": "Xích Beer Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.829191,
+                    21.0190058
+                ]
+            },
+            "properties": {
+                "name": "Quán M5+"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8174069,
+                    21.0146009
+                ]
+            },
+            "properties": {
+                "name": "Sparta Beer Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8315469,
+                    21.0058772
+                ]
+            },
+            "properties": {
+                "name": "Nhà Hàng Mét Beer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8082787,
+                    21.0117497
+                ]
+            },
+            "properties": {
+                "name": "Quán Bia Hà Nội Quán"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8036045,
+                    21.0055151
+                ]
+            },
+            "properties": {
+                "name": "iBiero Craft Beer Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8250301,
+                    21.0216205
+                ]
+            },
+            "properties": {
+                "name": "Nhà Hàng Bia Heineken 270"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8055326,
+                    21.0030106
+                ]
+            },
+            "properties": {
+                "name": "Beer Eating & Drinking"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8025381,
+                    21.01674
+                ]
+            },
+            "properties": {
+                "name": "Belgian Beer Club BBC (CLB Bia Bỉ BBC)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.832563,
+                    21.0288461
+                ]
+            },
+            "properties": {
+                "name": "Nhà hàng Thành Đen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.7999597,
+                    21.0147828
+                ]
+            },
+            "properties": {
+                "name": "Đại Mạch Bia Quán"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8216676,
+                    21.0037928
+                ]
+            },
+            "properties": {
+                "name": "Nhà hàng Liên Hương Casablanca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.823778,
+                    21.0144518
+                ]
+            },
+            "properties": {
+                "name": "Bia Hoi Ha Noi - Beer Vu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8111083,
+                    21.0186069
+                ]
+            },
+            "properties": {
+                "name": "Ngọc Hằng Beer Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.835293,
+                    21.0125804
+                ]
+            },
+            "properties": {
+                "name": "Nhà Hàng Bia 81"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8158204,
+                    21.020889
+                ]
+            },
+            "properties": {
+                "name": "Bia Hơi Nga Vinh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8162954,
+                    20.9980104
+                ]
+            },
+            "properties": {
+                "name": "One Beer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8209894,
+                    21.0087735
+                ]
+            },
+            "properties": {
+                "name": "VITAMIN BEER"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8280734,
+                    20.9980451
+                ]
+            },
+            "properties": {
+                "name": "Hải Xồm Beer Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8192491,
+                    21.0306331
+                ]
+            },
+            "properties": {
+                "name": "3S BEER 279 Kim Ma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8240114,
+                    21.0039805
+                ]
+            },
+            "properties": {
+                "name": "Cuong Beo Beer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.8040214,
+                    21.0142953
+                ]
+            },
+            "properties": {
+                "name": "9th Hour Beer Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    105.800846,
+                    21.0160285
+                ]
+            },
+            "properties": {
+                "name": "Nhà Hàng Bia Sành Điệu"
+            }
+        }
+    ]
+}
